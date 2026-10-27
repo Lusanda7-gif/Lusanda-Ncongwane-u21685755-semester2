@@ -1,0 +1,18 @@
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+h1 {
+    text-align: left;
+    color: aquas;
+    font-family: Arial, sans-serif;
+    border-color: purple;
+}
+header {
+    background-color:purple;
+    color: white;
+    padding: 15px;
+}
+
